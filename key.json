@@ -5,7 +5,7 @@
     "getKeyUrl": "https://wa.me/8801976400576",
     "imageUrl": "https://raw.githubusercontent.com/DPModsYT/firebasedemopanel/refs/heads/main/Firefly%2020260417084915.png",
     "loginBtnText": "AUTHENTICATE",
-    "maintenanceMode": true,
+    "maintenanceMode": false,
     "maintenanceMsg": "Matrix X Cheats server is temporarily down for maintenance.",
     "statusBadge": "SECURE",
     "tags": [
@@ -15,8 +15,8 @@
     ],
     "title": "MATRIX CHEATS",
     "updateMsg": "New Matrix X Cheats version available! Please update.",
-    "updateRequired": false,
-    "updateUrl": "https://wa.me/8801976400576"
+    "updateRequired": true,
+    "updateUrl": "https://www.upload-apk.com/iz7mGeM0eg1d3LK"
   },
   "BannedHWIDs": {
     "EXAMPLE_BANNED_HWID": "Attempted Smali Bypass"
